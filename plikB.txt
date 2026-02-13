@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 BBBBbbbbbbb
+=======
+bbbbbbbbbbbbbb
+>>>>>>> 517c6c9 (ALL)
